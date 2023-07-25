@@ -1,0 +1,221 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Play', sans-serif;
+}
+
+body {
+    background-image: url(./images/7A9d.gif);
+    background-size: cover;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 30px;
+}
+
+header img {
+    width: 320px;
+    height: 320px;
+    border-radius: 50%;
+
+}
+
+header h1 {
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 20px;
+    color: aliceblue;
+}
+
+header p {
+    font-size: 17px;
+    font-weight: 400;
+    margin-top: 10px;
+    color: aliceblue;
+}
+
+.links {
+    text-align: center;
+    margin-top: 10px;
+    width: 328px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.links a {
+    background-image: url(./images/backbutton.gif);
+    color: aliceblue;
+    padding: 15px;
+    text-decoration: none;
+    display: block;
+    border-radius: 5px;
+    
+
+}
+
+.links .insta{
+    background-color: #1a40eb;
+    background-size: cover;
+    font-weight: bold;
+    border: 3px solid rgb(250, 252, 248);
+    font-size: 20px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+}
+
+
+a .github{
+    text-align: center;
+    margin-right: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+
+.logo-insta {
+    width: 30px;
+    display: flex;
+    justify-content: center;
+    margin-right: 15px;
+    margin-left: 65px;
+}
+.logo-github {
+    width: 30px;
+    display: flex;
+    justify-content: center;
+    margin-right: 15px;
+    margin-left: 78px;
+   
+}
+.links .github{
+    background-color: #1a40eb;
+    background-size: cover;
+    font-weight: bold;
+    border: 3px solid rgb(250, 252, 248);
+    font-size: 20px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+   
+}
+.links .linkedin{
+    background-color: #1a40eb;
+    background-size: cover;
+    font-weight: bold;
+    border: 3px solid rgb(250, 252, 248);
+    font-size: 20px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+}
+.logo-linke {
+    width: 30px;
+    display: flex;
+    justify-content: center;
+    margin-right: 15px;
+    margin-left: 78px;
+   
+}
+
+.links .pdf{
+    background-color: #1a40eb;
+    background-size: cover;
+    font-weight: bold;
+    border: 3px solid rgb(250, 252, 248);
+    font-size: 20px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+}
+.logo-pdf {
+    width: 30px;
+    display: flex;
+    justify-content: center;
+    margin-right: 15px;
+    margin-left: 78px;
+   
+}
+
+.links .whatsapp{
+    background-color: #1a40eb;
+    background-size: cover;
+    font-weight: bold;
+    border: 3px solid rgb(250, 252, 248);
+    font-size: 20px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+}
+.logo-zap {
+    width: 30px;
+    display: flex;
+    justify-content: center;
+    margin-right: 15px;
+    margin-left: 78px;
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.logo-github {
+    width: 30px;
+    display: flex;
+    justify-content: center;
+    margin-right: 15px;
+    margin-left: 78px;
+   
+}
+.links .curriculo{
+    background-color: #1a40eb;
+    background-size: cover;
+    font-weight: bold;
+    border: 3px solid rgb(250, 252, 248);
+}
+.links .whatsapp{
+    background-color: #1a40eb;
+    background-size: cover;
+    font-weight: bold;
+    border: 3px solid rgb(250, 252, 248);
+}
+
+.links a:hover {
+    background-image: url(./images/gif0101.gif);
+}
+
+.links li {
+    margin-bottom: 18px;
+    list-style: none;
+}
+
+.links ul {
+    margin-top: 35px;
+}
+
+footer {
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+    margin-bottom: 15px;
+    color: aliceblue;
+    font-style: italic;
+    font-weight: bold;
+}
